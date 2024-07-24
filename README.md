@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitthal</h1>
-<h3 align="center">Pixel Perfectionist 🎨 | Turning design dreams into web realities | Frontend sorcerer with a passion for responsive elegance</h3>
+<h3 align="center">Tech Visionary 💡 | Turning complex problems into clean code solutions | Expert MERN Stack Developer passionate about real-world impact</h3>
 
 
 ## 🌐 Connect with me:
